@@ -1,0 +1,6 @@
+* Albanian-Vithkuqi Character Transliterator
+
+Given the sui-generis Vithkuqi script developed by Albanian intellectual Naum Veqilarxhi
+to write the Albanian language (at a time when it was being smothered by
+foreign cultural influences), this transliteration program leverages the
+font I have designed to render letters in either direction.
